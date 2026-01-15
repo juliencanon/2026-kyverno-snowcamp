@@ -2,8 +2,8 @@
 
 echo "## Extinction des feux ##"
 echo "-------------------------"
-minikube stop -p kyverno-volcamp
-minikube delete -p kyverno-volcamp
+minikube stop -p kyverno-snowcamp
+minikube delete -p kyverno-snowcamp
 colima stop
 helm repo remove kyverno
 helm repo remove policy-reporter

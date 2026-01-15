@@ -7,6 +7,11 @@
 ## Policy-reporter UI
 ![h-800](./assets/snowcamp/policy-reporter.png)
 
+##--##
+<!-- .slide: class="flex-row center" data-background="./assets/snowcamp/bkgnd-7.png"-->
+## OpenReports.io
+![h-800](./assets/snowcamp/openreports.png)
+
 ##==##
 <!-- .slide: class="with-code-dark max-height" data-background="./assets/snowcamp/bkgnd-7.png"-->
 ## PolicyExceptions (Pouvoir gérer une exception ponctuelle)

@@ -18,6 +18,7 @@ function schoolSlides() {
     "87_vap_map.md",
     "75_Generating.md",
     "70_Mutate.md",
+    "88_release.md",
     "90_Conclusion.md",
     "95_Speaker.md",
     "99_Questions.md"

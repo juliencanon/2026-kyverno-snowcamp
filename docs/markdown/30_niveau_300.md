@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/snowcamp/bkgnd-7.png"-->
 ## Niveau 300 : Une demande du CISO vient de tomber...
-![h600](./assets/snowcamp/100-chateau-600.png)
+![h-600](./assets/snowcamp/100-chateau-600.png)
 
 Il faut sécuriser les containers dans le cluster !
 
@@ -30,7 +30,7 @@ https://kubernetes.io/docs/concepts/security/pod-security-standards
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/snowcamp/bkgnd-7.png"-->
 ## Pod Security Standards
-![h500](./assets/snowcamp/pss-700.png)
+![h-800](./assets/snowcamp/pss-700.png)
 
 
 ##==##
@@ -39,11 +39,11 @@ https://kubernetes.io/docs/concepts/security/pod-security-standards
 
 Choix du profil : 
 <!-- .element: class="text-blue" -->
-![h500](./assets/snowcamp/policies-baseline.jpg)
+![h-200](./assets/snowcamp/policies-baseline.jpg)
 
 Mode : Audit ou Enforce
 <!-- .element: class="text-blue" -->
-![h500](./assets/snowcamp/policies-enforce.jpg)
+![h-200](./assets/snowcamp/policies-enforce.jpg)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/snowcamp/bkgnd-7.png"-->

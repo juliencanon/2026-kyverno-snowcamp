@@ -2,7 +2,7 @@
 <!-- .slide: class="flex-row center" data-background="./assets/snowcamp/bkgnd-7.png"-->
 ## Niveau 400 
 ### Implémentez les policies adaptées à votre métier
-![h600](./assets/snowcamp/200-dragon-600.png)
+![h-600](./assets/snowcamp/200-dragon-600.png)
 
 
 

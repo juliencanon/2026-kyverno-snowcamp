@@ -32,7 +32,7 @@ nombre_options=${#options[@]}
 # --- Fonction pour afficher le menu ---
 function afficher_menu() {
     clear
-    echo -e "=== Démo \033[38;5;205mKyverno \033[92mVolcamp\033[0m 2025 ==="
+    echo -e "=== Démo \033[38;5;205mKyverno \033[92mSnowcamp\033[0m 2026 ==="
     echo ""
 
     for i in "${!options[@]}"; do
